@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-06-19T10:29:18.352004+00:00
+Data eksportu: 2026-06-19T10:40:33.674448+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
