@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-06-23T07:58:13.228481+00:00
+Data eksportu: 2026-06-24T07:53:54.477313+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -632,7 +632,7 @@ Strona główna
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/
-- Ostatnia modyfikacja: 2026-06-01T14:33:25
+- Ostatnia modyfikacja: 2026-06-23T19:26:10
 
 Centrum Transferu Wiedzy i Innowacji oraz Komercjalizacji
 Prace B+R
