@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-06-29T09:07:54.796111+00:00
+Data eksportu: 2026-06-30T08:02:14.145240+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-06-29T09:07:54.796111+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/science4business-nauka-dla-biznesu/
-- Ostatnia modyfikacja: 2026-06-08T15:25:50
+- Ostatnia modyfikacja: 2026-06-29T12:30:22
 
 Science4Business
 Celem projektu jest zwiększenie skuteczności działań związanych z transferem technologii podejmowanych przez organizacje badawcze. Zostanie on osiągnięty poprzez wspieranie całego procesu transferu technologii (od identyfikacji technologii, oceny potencjału, dostosowania do aktualnych potrzeb, aż po skuteczne wprowadzenie do obiegu gospodarczego).
