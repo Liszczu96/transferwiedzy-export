@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-07-01T08:32:00.777083+00:00
+Data eksportu: 2026-07-02T07:44:25.528899+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-07-01T08:32:00.777083+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/science4business-nauka-dla-biznesu/
-- Ostatnia modyfikacja: 2026-06-29T12:30:22
+- Ostatnia modyfikacja: 2026-07-02T09:22:57
 
 Science4Business
 Celem projektu jest zwiększenie skuteczności działań związanych z transferem technologii podejmowanych przez organizacje badawcze. Zostanie on osiągnięty poprzez wspieranie całego procesu transferu technologii (od identyfikacji technologii, oceny potencjału, dostosowania do aktualnych potrzeb, aż po skuteczne wprowadzenie do obiegu gospodarczego).
@@ -21,30 +21,10 @@ Dostęp do wiedzy i rozwój narzędzi dla zespołów zaangażowanych w transfer 
 Projekt finansowany ze środków Unii Europejskiej w ramach Programu „Fundusze Europejskie dla Nowoczesnej Gospodarki na lata 2021-2027”.
 Projekt w bazie projektów
 bip
-Dla kogo jest program?
-pracowników naukowo-dydaktycznych i naukowych
-doktorantów, studentów, pracowników dydaktycznych (w roli członków zespołów projektowych)
-zespołów rozwijających projekty B+R+I z potencjałem rynkowym
 Ścieżka wdrożenia Projektu B+R+I
 Science4Business ma na celu dofinansowanie Projektów B+R +I z realnym potencjałem rynkowym. Od nauki → przez wdrożenie → do komercjalizacji.
-DOKUMENTY PROJEKTOWE
-REGULAMIN PROJEKTU
-Regulamin projektu wraz załącznikami, które są niezbędne do przejścia wszystkich etapów oceny oraz uzyskania rekomendacji Komitetu Inwestycyjnego.
-Regulamin projektu
-poziomy trl i brl – opisy
-zgłoszenie dobra intelektualnego
-WZÓR WNIOSKU
-Wzór wniosku wraz ze wzorem harmonogramu rzeczowo- finansowego, wzorem prezentacji oraz oświadczeniami.
-wniosek
-Harmonogram
-wzór prezentacji
-Zgoda Kierownika
-WZÓR UMOWY RAMOWEJ
-Wzór umowy ramowej, która określa prawa, obowiązki oraz zasady realizacji prac B+R+I w przyznanym finansowaniu.
-Wzór umowy ramowej
-Wzór sprawozdania końcowego
-wzór sprawozdania merytorycznego
 ETAPY REALIZACJI PROJEKTU
+Wyniki naboru – Uchwała
 Spotkania Komitetu Inwestycyjnego będą odbywać się 09.06, 11.06, 17.06 oraz 22.06.2026 .
 Skład Komitetu Inwestycyjnego
 Ocenę formalną przeszło 6 wniosków. Główni Wykonawcy zostali zaproszeni na spotkanie z Komitetem Inwestycyjnym.
@@ -67,6 +47,27 @@ CZYTAJ WIĘCEJ
 Science4Business: know-how jako zasób strategiczny.
 Know-how to pakiet nieopatentowanych informacji praktycznych, które wynikają głównie z doświadczenia i badań
 CZYTAJ WIĘCEJ
+DOKUMENTY PROJEKTOWE
+REGULAMIN PROJEKTU
+Regulamin projektu wraz załącznikami, które są niezbędne do przejścia wszystkich etapów oceny oraz uzyskania rekomendacji Komitetu Inwestycyjnego.
+Regulamin projektu
+poziomy trl i brl – opisy
+zgłoszenie dobra intelektualnego
+WZÓR WNIOSKU
+Wzór wniosku wraz ze wzorem harmonogramu rzeczowo- finansowego, wzorem prezentacji oraz oświadczeniami.
+wniosek
+Harmonogram
+wzór prezentacji
+Zgoda Kierownika
+WZÓR UMOWY RAMOWEJ
+Wzór umowy ramowej, która określa prawa, obowiązki oraz zasady realizacji prac B+R+I w przyznanym finansowaniu.
+Wzór umowy ramowej
+Wzór sprawozdania końcowego
+wzór sprawozdania merytorycznego
+Dla kogo jest program?
+pracowników naukowo-dydaktycznych i naukowych
+doktorantów, studentów, pracowników dydaktycznych (w roli członków zespołów projektowych)
+zespołów rozwijających projekty B+R+I z potencjałem rynkowym
 Masz pytania ? Chcesz omówić swój pomysł?
 Pisz na adres:
 pawel.brusilo@ue.wroc.pl
@@ -742,6 +743,13 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### Uchwała_KI_S4B
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/Uchwala_KI_S4B.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-07-01T17:06:35
+- Podpis: Uchwała_KI_S4B
 
 ### M.2026.510.Z.60 – powołąnie komitetu
 
