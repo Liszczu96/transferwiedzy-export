@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-07-13T07:37:40.705905+00:00
+Data eksportu: 2026-07-14T06:25:22.383487+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -633,7 +633,7 @@ Strona główna
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/
-- Ostatnia modyfikacja: 2026-06-23T19:26:10
+- Ostatnia modyfikacja: 2026-07-13T15:31:41
 
 Centrum Transferu Wiedzy i Innowacji oraz Komercjalizacji
 Prace B+R
@@ -655,6 +655,9 @@ PROJEKTY
 Science4Business – Nauka dla biznesu
 Celem projektu jest zwiększenie skuteczności działań związanych z transferem technologii podejmowanych przez organizacje badawcze
 Science4Business – Nauka dla biznesu
+Bony na innowacje w ramach inicjatywy STEP
+Celem projektu jest zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP.
+Bony na innowacje – STEP
 Sprawdź ofertę naszych zespołów eksperckich
 Zapraszamy na wspólną ścieżkę rozwoju!
 CENTRA KOMPETENCYJNE
@@ -743,6 +746,12 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### Plakat – STEP
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/Plakat-STEP.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-13T14:09:32
 
 ### Uchwała_KI_S4B
 
