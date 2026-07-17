@@ -1,9 +1,70 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-07-16T06:31:19.523808+00:00
+Data eksportu: 2026-07-17T06:27:38.609919+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
+
+### Bony na innowacje w ramach inicjatywy STEP
+
+- Typ: page
+- URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
+- Ostatnia modyfikacja: 2026-07-16T13:13:15
+
+Bony na innowacje w ramach inicjatywy STEP
+Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
+Efektem projektu będzie wzrost produktywności, tworzenia wysoko specjalistycznych miejsc pracy oraz większego udziału MŚP w łańcuchach wartości opartych na wiedzy.
+Projekt zakłada uruchomienie mechanizmu grantowego dla mikro, małych i średnich przedsiębiorstw z Dolnego Śląska, ukierunkowanego na zakup usług B+R w obszarze technologii strategicznych dla Europy:
+biotechnologii (bio tech)
+technologii cyfrowych (deep tech)
+czystych i zasobooszczędnych technologii (clean tech)
+Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
+Projekt w bazie projektów
+Dla kogo jest projekt?
+Projekt jest dla mikro, małych i średnich przedsiębiorstw z Dolnego Śląska, które realizują lub planują realizację prac badawczo-rozwojowych we współpracy z wyspecjalizowanymi jednostkami B+R w obszarze biotechnologii (bio tech), technologii cyfrowych (deep tech), czystych i zasobooszczędnych technologii (clean tech).
+Dokumenty projektowe
+Pliki do pobrania – już wkrótce
+movie_demo_small
+demo photo no bg
+test test test long name of download file
+Harmonogram projektu
+RUNDA 1
+Rekrutacja do wsparcia niefinansowego (etap 1): sierpień 2026
+Realizacja wsparcia niefinansowego (etap 1): wrzesień 2026
+Nabór wniosków w ramach (etapu 2): październik 2026
+Ocena wniosków w ramach (etapu 2): listopad 2026
+CZYTAJ WIĘCEJ
+RUNDA 2
+Rekrutacja do wsparcia niefinansowego (etap 1): październik 2026
+Realizacja wsparcia niefinansowego (etap 1): listopad 2026
+Nabór wniosków w ramach (etapu 2): styczeń 2027
+Ocena wniosków w ramach (etapu 2): luty 2027
+CZYTAJ WIĘCEJ
+RUNDA 3
+Rekrutacja do wsparcia niefinansowego (etap 1): grudzień 2026
+Realizacja wsparcia niefinansowego (etap 1): styczeń 2027
+Nabór wniosków w ramach (etapu 2): luty 2027
+Ocena wniosków w ramach (etapu 2): marzec 2027
+CZYTAJ WIĘCEJ
+Pytania i odpowiedzi
+1. Kto może wziąć udział w projekcie?
+Projekt skierowany jest do mikro, małych i średnich firm zarejestrowanych na Dolnym Śląsku, które prowadzą lub planują prowadzić badania w obszarach BIO TECH, CLEAN TECH lub DEEP TECH .
+2. Czy podmiot musi mieć siedzibę na Dolnym Śląsku?
+Tak. Wnioskodawca musi prowadzić działalność gospodarczą na terenie województwa dolnośląskiego, co powinno być potwierdzone wpisem do właściwego rejestru KRS lub CEIDG (adres siedziby, oddziału lub miejsce zamieszkania muszą znajdować się w województwie dolnośląskim).
+3 . Czym jest wsparcie niefinansowe?
+Wsparcie niefinansowe to bezpłatne usługi doradcze dla MŚP, w tym analiza potencjału rynkowego i technologicznego projektu, identyfikacja odbiorców i rynków docelowych, diagnoza potrzeb badawczo-rozwojowych, audyt technologiczny oraz wsparcie w przygotowaniu dokumentacji i wyborze wykonawcy usługi B+R. Uwaga: Skorzystanie ze wsparcia niefinansowego jest bezpłatne, jednak nie gwarantuje otrzymania grantu w Etapie II.
+4. Na co mogę otrzymać dofinansowanie?
+Dofinansowanie w postaci bonu, może otrzymać tylko firma, która zostanie zakwalifikowana do etapu II. Bon będzie mógł być wykorzystany tylko na zakup usług badawczo-rozwojowych (B+R) służących opracowaniu rozwiązań wpisujących się w technologie krytyczne STEP. Warunkiem uzyskania grantu będzie posiadanie umowy lub umowy warunkowej z wykonawcą usługi B+R.
+5. W jaki sposób należy złożyć dokumenty aplikacyjne?
+Wniosek wraz z wymaganymi załącznikami należy złożyć wyłącznie w formie elektronicznej za pośrednictwem adresu do e-Doręczeń: AE:PL-83973-90121-SDIFT-25 z dopiskiem „Bony na innowacje w ramach inicjatywy STEP”.
+6. Czy można złożyć więcej niż jeden wniosek?
+Nie. W ramach naboru przedsiębiorca może złożyć wyłącznie jeden Wniosek o udzielenie Grantu. W przypadku złożenia więcej niż jednego wniosku, wszystkie wnioski zostają odrzucone.
+7. Czy skorzystanie ze wsparcia doradczego jest obowiązkowe?
+Tak. Udział w Etapie I (wsparcie doradcze) jest niezbędnym elementem przygotowania przedsiębiorstwa do ubiegania się o grant w ramach Etapu II.
+8. Czy można złożyć wniosek do Etapu II bez zakończenia Etapu I?
+Nie. Zakończenie Etapu I (wsparcia doradczego) jest warunkiem formalnym ubiegania się o grant w Etapie II.
+
+---
 
 ### Science4Business – Nauka dla biznesu
 
@@ -606,6 +667,7 @@ Centrum Doskonalenia Kompetencji Badawczych
 - Ostatnia modyfikacja: 2023-03-22T11:20:40
 
 Bloki
+Bony na innowacje w ramach inicjatywy STEP
 Centra kompetencyjne Adaptive Food Systems Accelerator – Research Centre
 Akademickie Centrum Badań i Rozwoju BioR&D
 Asia-Pacific Research Centre
@@ -746,6 +808,72 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### pexels-photo-5831672-5831672
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/pexels-photo-5831672-5831672.jpg
+- Typ pliku: image/jpeg
+- Ostatnia modyfikacja: 2026-07-16T10:24:01
+
+### schemat projektu 2
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/schemat-projektu-2.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-16T09:59:06
+
+### slajd 2 (2)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-2-2-1.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:21:21
+
+### slajd 1 (1)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-1-1-3.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:20:22
+
+### slajd 1 (1)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-1-1-2.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:17:50
+
+### slajd 3
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-3.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:15:18
+
+### slajd 2 (2)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-2-2.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:14:59
+
+### slajd 1 (1)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-1-1-1.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:14:34
+
+### slajd 1 (1)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/slajd-1-1.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T16:11:26
+
+### Plakat – STEP
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/Plakat-STEP-1.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T15:04:22
+
+### image
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/07/image.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-07-15T14:26:32
 
 ### Plakat – STEP
 
