@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-08-26T04:56:07.581895+00:00
+Data eksportu: 2026-08-27T15:15:24.789098+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-08-26T04:56:07.581895+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-07-16T13:13:15
+- Ostatnia modyfikacja: 2026-08-27T13:40:52
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -695,7 +695,7 @@ Strona główna
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/
-- Ostatnia modyfikacja: 2026-07-13T15:31:41
+- Ostatnia modyfikacja: 2026-08-27T13:49:30
 
 Centrum Transferu Wiedzy i Innowacji oraz Komercjalizacji
 Prace B+R
