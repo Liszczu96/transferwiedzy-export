@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-09-14T09:52:45.034773+00:00
+Data eksportu: 2026-09-15T09:28:36.266633+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-09-14T09:52:45.034773+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-09-07T16:25:27
+- Ostatnia modyfikacja: 2026-09-15T11:01:12
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -23,10 +23,11 @@ Projekt w bazie projektów
 Dla kogo jest projekt?
 Projekt jest dla mikro, małych i średnich przedsiębiorstw z Dolnego Śląska, które realizują lub planują realizację prac badawczo-rozwojowych we współpracy z wyspecjalizowanymi jednostkami B+R w obszarze biotechnologii (bio tech), technologii cyfrowych (deep tech), czystych i zasobooszczędnych technologii (clean tech).
 Dokumenty projektowe
-Pliki do pobrania – już wkrótce
-movie_demo_small
-demo photo no bg
-test test test long name of download file
+Regulamin naboru
+Ogłoszenie naboru wsparcie niefinansowe
+Umowa wsparcia niefinansowego
+Kryteria oceny formalnej i merytorycznej (ETAP I)
+Wniosek o przyznanie grantu (ETAP I)
 Harmonogram projektu
 RUNDA 1
 Rekrutacja do wsparcia niefinansowego (etap 1): wrzesień 2026
@@ -808,6 +809,47 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### spring-notebook-book-perspective-159682-159682
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/spring-notebook-book-perspective-159682-159682.jpg
+- Typ pliku: image/jpeg
+- Ostatnia modyfikacja: 2026-09-15T11:15:36
+
+### Zal. V do Regulaminu – Kryteria oceny formalnej i merytorycznej (ETAP I)_11.08
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-V-do-Regulaminu-Kryteria-oceny-formalnej-i-merytorycznej-ETAP-I_11.08.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-09-15T09:56:26
+- Podpis: Zal. V do Regulaminu – Kryteria oceny formalnej i merytorycznej […]
+
+### Zal. III do Regulaminu – Umowa wsparcia niefinansowego
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-III-do-Regulaminu-Umowa-wsparcia-niefinansowego.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-09-15T09:56:24
+- Podpis: Zal. III do Regulaminu – Umowa wsparcia niefinansowego
+
+### Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP I
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-I.-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-I.docx
+- Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+- Ostatnia modyfikacja: 2026-09-15T09:56:20
+- Podpis: Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP […]
+
+### Regulamin naboru
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Regulamin-naboru.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-09-15T09:56:17
+- Podpis: Regulamin naboru
+
+### Ogloszenie naboru wsparcie niefinansowe
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Ogloszenie-naboru-wsparcie-niefinansowe.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-09-15T09:56:15
+- Podpis: Ogloszenie naboru wsparcie niefinansowe
 
 ### pexels-photo-5831672-5831672
 
