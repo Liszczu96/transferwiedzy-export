@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-09-15T09:28:36.266633+00:00
+Data eksportu: 2026-09-16T09:18:07.784439+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-09-15T09:28:36.266633+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-09-15T11:01:12
+- Ostatnia modyfikacja: 2026-09-15T12:43:34
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -20,6 +20,10 @@ technologii cyfrowych (deep tech)
 czystych i zasobooszczędnych technologii (clean tech)
 Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
 Projekt w bazie projektów
+Aktualności
+RUSZA NABÓR NA WSPARCIE NIEFINANSOWE !!!
+od 29.09 do 27.10 można składać wnioski do ETAPU I na wsparcie niefinansowe.
+Regulamin projektu, zasady naboru oraz wzory dokumentów znajdują się poniżej
 Dla kogo jest projekt?
 Projekt jest dla mikro, małych i średnich przedsiębiorstw z Dolnego Śląska, które realizują lub planują realizację prac badawczo-rozwojowych we współpracy z wyspecjalizowanymi jednostkami B+R w obszarze biotechnologii (bio tech), technologii cyfrowych (deep tech), czystych i zasobooszczędnych technologii (clean tech).
 Dokumenty projektowe
@@ -27,7 +31,7 @@ Regulamin naboru
 Ogłoszenie naboru wsparcie niefinansowe
 Umowa wsparcia niefinansowego
 Kryteria oceny formalnej i merytorycznej (ETAP I)
-Wniosek o przyznanie grantu (ETAP I)
+Wniosek o przyznanie grantu (ETAP I )
 Harmonogram projektu
 RUNDA 1
 Rekrutacja do wsparcia niefinansowego (etap 1): wrzesień 2026
