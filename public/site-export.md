@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-09-20T09:17:33.389105+00:00
+Data eksportu: 2026-09-21T09:56:50.139598+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-09-20T09:17:33.389105+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-09-15T12:43:44
+- Ostatnia modyfikacja: 2026-09-21T09:48:39
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -34,22 +34,22 @@ Kryteria oceny formalnej i merytorycznej (ETAP I)
 Wniosek o przyznanie grantu (ETAP I )
 Harmonogram projektu
 RUNDA 1
-Rekrutacja do wsparcia niefinansowego (etap 1): wrzesień 2026
-Realizacja wsparcia niefinansowego (etap 1): wrzesień 2026
-Nabór wniosków w ramach (etapu 2): październik 2026
-Ocena wniosków w ramach (etapu 2): listopad 2026
+Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień 2026
+Realizacja wsparcia niefinansowego w Etapie 1: wrzesień 2026
+Nabór wniosków do Etapu 2: październik 2026
+Ocena wniosków Etapu 2: listopad 2026
 CZYTAJ WIĘCEJ
 RUNDA 2
-Rekrutacja do wsparcia niefinansowego (etap 1): październik 2026
-Realizacja wsparcia niefinansowego (etap 1): listopad 2026
-Nabór wniosków w ramach (etapu 2): styczeń 2027
-Ocena wniosków w ramach (etapu 2): luty 2027
+Rekrutacja do wsparcia niefinansowego do Etapu 1: październik 2026
+Realizacja wsparcia niefinansowego w Etapie 1: listopad 2026
+Nabór wniosków do Etapu 2: styczeń 2027
+Ocena wniosków Etapu 2: luty 2027
 CZYTAJ WIĘCEJ
 RUNDA 3
-Rekrutacja do wsparcia niefinansowego (etap 1): grudzień 2026
-Realizacja wsparcia niefinansowego (etap 1): styczeń 2027
-Nabór wniosków w ramach (etapu 2): luty 2027
-Ocena wniosków w ramach (etapu 2): marzec 2027
+Rekrutacja do wsparcia niefinansowego do Etapu 1: grudzień 2026
+Realizacja wsparcia niefinansowego w Etapie 1: styczeń 2027
+Nabór wniosków do Etapu 2: luty 2027
+Ocena wniosków Etapu 2: marzec 2027
 CZYTAJ WIĘCEJ
 Pytania i odpowiedzi
 1. Kto może wziąć udział w projekcie?
@@ -813,6 +813,12 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### STEP – proces
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/STEP-proces.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-09-21T09:36:21
 
 ### spring-notebook-book-perspective-159682-159682
 
