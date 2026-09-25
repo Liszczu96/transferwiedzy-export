@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-09-24T09:18:56.563952+00:00
+Data eksportu: 2026-09-25T09:36:54.661322+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-09-24T09:18:56.563952+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-09-21T09:48:39
+- Ostatnia modyfikacja: 2026-09-25T09:34:22
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -31,7 +31,7 @@ Regulamin naboru
 Ogłoszenie naboru wsparcie niefinansowe
 Umowa wsparcia niefinansowego
 Kryteria oceny formalnej i merytorycznej (ETAP I)
-Wniosek o przyznanie grantu (ETAP I )
+Wniosek o przyznanie grantu (ETAP I)
 Harmonogram projektu
 RUNDA 1
 Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień 2026
@@ -814,6 +814,20 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 
 ## Media i dokumenty
 
+### Regulamin naboru
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Regulamin-naboru-2.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-09-25T09:32:51
+- Podpis: Regulamin naboru
+
+### Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP I
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-I.-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-I-1.docx
+- Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+- Ostatnia modyfikacja: 2026-09-25T09:09:54
+- Podpis: Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP […]
+
 ### STEP – proces
 
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/STEP-proces.png
@@ -839,20 +853,6 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - Typ pliku: application/pdf
 - Ostatnia modyfikacja: 2026-09-15T09:56:24
 - Podpis: Zal. III do Regulaminu – Umowa wsparcia niefinansowego
-
-### Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP I
-
-- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-I.-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-I.docx
-- Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
-- Ostatnia modyfikacja: 2026-09-15T09:56:20
-- Podpis: Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP […]
-
-### Regulamin naboru
-
-- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Regulamin-naboru.pdf
-- Typ pliku: application/pdf
-- Ostatnia modyfikacja: 2026-09-15T09:56:17
-- Podpis: Regulamin naboru
 
 ### Ogloszenie naboru wsparcie niefinansowe
 
