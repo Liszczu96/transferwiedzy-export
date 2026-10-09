@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-08T11:22:24.068547+00:00
+Data eksportu: 2026-10-09T11:19:56.292471+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-10-08T11:22:24.068547+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-09-25T09:34:22
+- Ostatnia modyfikacja: 2026-10-08T16:19:25
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -21,6 +21,8 @@ czystych i zasobooszczędnych technologii (clean tech)
 Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
 Projekt w bazie projektów
 Aktualności
+SPOTKANIE INFORMACYJNE – zapraszamy na spotkanie informacyjne online. Już 14.10.2026 o godzinie 10.00 na platformie teams.
+Link do formularza rejestracyjnego: Spotkanie informacyjne 14.10.2026 – Wypełnij formularz
 RUSZA NABÓR NA WSPARCIE NIEFINASOWE !!!
 od 29.09 do 27.10 można składać wnioski do ETAPU I na wsparcie niefinansowe.
 Regulamin projektu, zasady naboru oraz wzory dokumentów znajdują się poniżej
@@ -813,6 +815,18 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### UEW_logo80_poziom_kolor_rgb_PL
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/UEW_logo80_poziom_kolor_rgb_PL-scaled.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-10-08T19:53:11
+
+### UEW_logo80_poziom_białe_rgb_PL
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/UEW_logo80_poziom_biale_rgb_PL-scaled.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-10-08T19:53:04
 
 ### Regulamin naboru
 
