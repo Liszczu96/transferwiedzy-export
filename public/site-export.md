@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-14T09:30:48.077630+00:00
+Data eksportu: 2026-10-15T09:09:12.912982+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-10-14T09:30:48.077630+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-10-09T15:49:31
+- Ostatnia modyfikacja: 2026-10-14T17:19:31
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -21,6 +21,8 @@ czystych i zasobooszczędnych technologii (clean tech)
 Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
 Projekt w bazie projektów
 Aktualności
+Prezentacja po spotkaniu informacyjnym dostępna tutaj
+W przypadku dodatkowych pytań prosimy o kierowanie ich na adres mailowy: step@ue.wroc.pl
 SPOTKANIE INFORMACYJNE – zapraszamy na spotkanie informacyjne online. Już 14.10.2026 o godzinie 10.00 na platformie teams.
 Link do formularza rejestracyjnego: Spotkanie informacyjne 14.10.2026 – Wypełnij formularz
 RUSZA NABÓR NA WSPARCIE NIEFINASOWE !!!
@@ -34,6 +36,10 @@ Ogłoszenie naboru wsparcie niefinansowe
 Umowa wsparcia niefinansowego
 Kryteria oceny formalnej i merytorycznej (ETAP I)
 Wniosek o przyznanie grantu (ETAP I)
+Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
+Zał. nr 2 do wniosku. Formularz informacji de minimis
+Zał. 3 do wniosku – Oswiadczenie o otrzymanej/nieotrzymanej pomocy de minimis
+Załacznik 5 do wniosku – Klauzula RODO
 Harmonogram projektu
 RUNDA 1
 Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień 2026
@@ -778,7 +784,8 @@ Tel.: (71) 36-80-230
 - URL: https://transferwiedzy.uew.pl/newsletter/
 - Ostatnia modyfikacja: 2022-12-19T09:35:16
 
-{formularz subskrypcji}
+Email
+Kontynuując, akceptujesz politykę prywatności
 
 ---
 
@@ -815,6 +822,41 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### STEP_Spotkanie informacyjne 14.10.2026
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/STEP_Spotkanie-informacyjne-14.10.2026.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-10-14T17:14:36
+- Podpis: STEP_Spotkanie informacyjne 14.10.2026
+
+### Załacznik 5 do wniosku – Klauzula RODO
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zalacznik-5-do-wniosku-Klauzula-RODO.docx
+- Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+- Ostatnia modyfikacja: 2026-10-14T17:10:32
+- Podpis: Załacznik 5 do wniosku – Klauzula RODO
+
+### Zał. nr 2 do wniosku. Formularz informacji de minimis
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-nr-2-do-wniosku.-Formularz-informacji-de-minimis.xlsx
+- Typ pliku: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+- Ostatnia modyfikacja: 2026-10-14T16:56:45
+- Podpis: Zał. nr 2 do wniosku. Formularz informacji de minimis
+
+### Zał. 3 do wniosku – Oswiadczenie o otrzymanej_nieotrzymanej pomocy de minimis
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-3-do-wniosku-Oswiadczenie-o-otrzymanej_nieotrzymanej-pomocy-de-minimis.docx
+- Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+- Ostatnia modyfikacja: 2026-10-14T16:56:41
+- Podpis: Zał. 3 do wniosku – Oswiadczenie o otrzymanej_nieotrzymanej pomocy de […]
+
+### Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal-nr-1-do-wniosku.-Oswiadczenie-o-spelnianiu-kryteriow-MSP.doc
+- Typ pliku: application/msword
+- Ostatnia modyfikacja: 2026-10-14T16:56:39
+- Podpis: Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
 
 ### UEW_logo80_poziom_kolor_rgb_PL
 
