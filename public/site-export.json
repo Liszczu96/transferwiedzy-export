@@ -1,10 +1,10 @@
 {
   "source": "https://transferwiedzy.uew.pl",
-  "exported_at": "2026-10-23T09:21:12.203595+00:00",
+  "exported_at": "2026-10-24T08:52:42.897250+00:00",
   "summary": {
     "pages_count": 23,
     "posts_count": 3,
-    "media_count": 85,
+    "media_count": 86,
     "content_items_count": 26
   },
   "content_items": [
@@ -322,6 +322,19 @@
     }
   ],
   "media_items": [
+    {
+      "id": 7854,
+      "type": "media",
+      "title": "AACSB-logo-member-reverse-color-RGB (1)",
+      "slug": "aacsb-logo-member-reverse-color-rgb-1-2",
+      "url": "https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/AACSB-logo-member-reverse-color-RGB-1.png",
+      "date": "2026-10-23T13:46:05",
+      "modified": "2026-10-23T13:46:26",
+      "mime_type": "image/png",
+      "alt_text": "Logo AACSB Mmber",
+      "caption_text": "",
+      "source": "https://transferwiedzy.uew.pl"
+    },
     {
       "id": 7842,
       "type": "media",

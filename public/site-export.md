@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-23T09:21:12.203595+00:00
+Data eksportu: 2026-10-24T08:52:42.897250+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -822,6 +822,12 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### AACSB-logo-member-reverse-color-RGB (1)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/AACSB-logo-member-reverse-color-RGB-1.png
+- Typ pliku: image/png
+- Ostatnia modyfikacja: 2026-10-23T13:46:26
 
 ### STEP_Spotkanie informacyjne 14.10.2026
 
