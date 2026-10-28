@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-27T09:48:51.375715+00:00
+Data eksportu: 2026-10-28T10:35:03.703830+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-10-27T09:48:51.375715+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-10-27T09:27:57
+- Ostatnia modyfikacja: 2026-10-27T12:40:00
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -44,23 +44,20 @@ Zał. 3 do wniosku – Oswiadczenie o otrzymanej/nieotrzymanej pomocy de minimis
 Załacznik 5 do wniosku – Klauzula RODO
 Harmonogram projektu
 RUNDA 1
-Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień 2026
-Realizacja wsparcia niefinansowego w Etapie 1: wrzesień 2026
-Nabór wniosków do Etapu 2: październik 2026
-Ocena wniosków Etapu 2: listopad 2026
-CZYTAJ WIĘCEJ
-RUNDA 2
-Rekrutacja do wsparcia niefinansowego do Etapu 1: październik 2026
+Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień – październik 2026
 Realizacja wsparcia niefinansowego w Etapie 1: listopad 2026
+Nabór wniosków do Etapu 2: listopad – grudzień 2026
+Ocena wniosków Etapu 2: grudzień 2026
+RUNDA 2
+Rekrutacja do wsparcia niefinansowego do Etapu 1: listopad 2026
+Realizacja wsparcia niefinansowego w Etapie 1: grudzień 2026
 Nabór wniosków do Etapu 2: styczeń 2027
 Ocena wniosków Etapu 2: luty 2027
-CZYTAJ WIĘCEJ
 RUNDA 3
 Rekrutacja do wsparcia niefinansowego do Etapu 1: grudzień 2026
 Realizacja wsparcia niefinansowego w Etapie 1: styczeń 2027
 Nabór wniosków do Etapu 2: luty 2027
 Ocena wniosków Etapu 2: marzec 2027
-CZYTAJ WIĘCEJ
 Pytania i odpowiedzi
 1. Kto może wziąć udział w projekcie?
 Projekt skierowany jest do mikro, małych i średnich firm zarejestrowanych na Dolnym Śląsku, które prowadzą lub planują prowadzić badania w obszarach BIO TECH, CLEAN TECH lub DEEP TECH .
