@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-29T10:53:51.436493+00:00
+Data eksportu: 2026-10-30T10:52:02.157270+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-10-29T10:53:51.436493+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-10-27T12:40:00
+- Ostatnia modyfikacja: 2026-10-29T16:36:41
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -21,6 +21,8 @@ czystych i zasobooszczędnych technologii (clean tech)
 Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
 Projekt w bazie projektów
 Aktualności
+SPOTKANIE INFORMACYJNE – zapraszamy na spotkanie informacyjne online. Już 04.11.2026 o godzinie 10.00 na platformie teams.
+Link do formularza rejestracyjnego: Spotkanie informacyjne 04.11.2026 – Wypełnij formularz
 WYDŁUŻAMY NABÓR NA WSPARCIE NIEFINANSOWE DO 10.11.2026
 Z uwagi na problemy techniczne, wydłużamy termin naboru wniosków do Etapu I do 10.11.2026 r do godz. 23.59.
 Prezentacja po spotkaniu informacyjnym dostępna tutaj
