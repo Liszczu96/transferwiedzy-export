@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-10-30T10:52:02.157270+00:00
+Data eksportu: 2026-10-31T10:23:40.084818+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-10-30T10:52:02.157270+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-10-29T16:36:41
+- Ostatnia modyfikacja: 2026-10-30T17:04:59
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -21,20 +21,19 @@ czystych i zasobooszczędnych technologii (clean tech)
 Przedmiotem projektu jest przygotowanie i realizacja dwóch powiązanych form wsparcia: niefinansowego doradztwa ( etap I) oraz grantów na B+R (etap II).
 Projekt w bazie projektów
 Aktualności
+RUSZA NABÓR NA WSPARCIE FINASOWE !!!
+od 02.11 do 14.12 można składać wnioski do ETAPU II na wsparcie finansowe.
+Regulamin projektu, zasady naboru oraz wzory dokumentów znajdują się poniżej
 SPOTKANIE INFORMACYJNE – zapraszamy na spotkanie informacyjne online. Już 04.11.2026 o godzinie 10.00 na platformie teams.
 Link do formularza rejestracyjnego: Spotkanie informacyjne 04.11.2026 – Wypełnij formularz
 WYDŁUŻAMY NABÓR NA WSPARCIE NIEFINANSOWE DO 10.11.2026
 Z uwagi na problemy techniczne, wydłużamy termin naboru wniosków do Etapu I do 10.11.2026 r do godz. 23.59.
+Regulamin projektu, zasady naboru oraz wzory dokumentów znajdują się poniżej
 Prezentacja po spotkaniu informacyjnym dostępna tutaj
 W przypadku dodatkowych pytań prosimy o kierowanie ich na adres mailowy: step@ue.wroc.pl
-SPOTKANIE INFORMACYJNE – zapraszamy na spotkanie informacyjne online. Już 14.10.2026 o godzinie 10.00 na platformie teams.
-Link do formularza rejestracyjnego: Spotkanie informacyjne 14.10.2026 – Wypełnij formularz
-RUSZA NABÓR NA WSPARCIE NIEFINASOWE !!!
-od 29.09 do 27.10 można składać wnioski do ETAPU I na wsparcie niefinansowe.
-Regulamin projektu, zasady naboru oraz wzory dokumentów znajdują się poniżej
 Dla kogo jest projekt?
 Projekt jest dla mikro, małych i średnich przedsiębiorstw z Dolnego Śląska, które realizują lub planują realizację prac badawczo-rozwojowych we współpracy z wyspecjalizowanymi jednostkami B+R w obszarze biotechnologii (bio tech), technologii cyfrowych (deep tech), czystych i zasobooszczędnych technologii (clean tech).
-Dokumenty projektowe
+Dokumenty projektowe – ETAP 1
 Regulamin naboru
 Ogłoszenie naboru wsparcie niefinansowe
 Umowa wsparcia niefinansowego
@@ -44,6 +43,16 @@ Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
 Zał. nr 2 do wniosku. Formularz informacji de minimis
 Zał. 3 do wniosku – Oswiadczenie o otrzymanej/nieotrzymanej pomocy de minimis
 Załacznik 5 do wniosku – Klauzula RODO
+Dokumenty projektowe – ETAP 2
+Regulamin naboru
+Ogłoszenie naboru wsparcie finansowe
+Umowa wsparcia finansowego
+Kryteria oceny formalnej i merytorycznej (ETAP II)
+Wniosek o przyznanie grantu (ETAP II)
+Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
+Zał. nr 2 do wniosku. Formularz informacji de minimis
+Zał. 3 do wniosku – Oswiadczenie o otrzymanej/nieotrzymanej pomocy de minimis
+Załącznik 5 do wniosku – Klauzula RODO
 Harmonogram projektu
 RUNDA 1
 Rekrutacja do wsparcia niefinansowego do Etapu 1: wrzesień – październik 2026
@@ -823,6 +832,48 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 ---
 
 ## Media i dokumenty
+
+### Ogloszenie naboru wsparcie finansowe
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Ogloszenie-naboru-wsparcie-finansowe.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-10-30T16:52:32
+- Podpis: Ogloszenie naboru wsparcie finansowe
+
+### Zal. II do Regulaminu – Wniosek o przyznanie grantu (ETAP II)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-II-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-II.doc
+- Typ pliku: application/msword
+- Ostatnia modyfikacja: 2026-10-30T16:52:27
+- Podpis: Zal. II do Regulaminu – Wniosek o przyznanie grantu (ETAP […]
+
+### Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-IV-do-Regulaminu-Umowa-wsparcie-finansowe-powierzenie-Grantu.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-10-30T16:52:22
+- Podpis: Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
+
+### Kryteria oceny formalnej i merytorycznej (ETAP II)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Kryteria-oceny-formalnej-i-merytorycznej-ETAP-II.doc
+- Typ pliku: application/msword
+- Ostatnia modyfikacja: 2026-10-30T16:52:18
+- Podpis: Kryteria oceny formalnej i merytorycznej (ETAP II)
+
+### Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal-nr-1-do-wniosku.-Oswiadczenie-o-spelnianiu-kryteriow-MSP-1.doc
+- Typ pliku: application/msword
+- Ostatnia modyfikacja: 2026-10-30T16:52:14
+- Podpis: Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
+
+### Załacznik 5 do wniosku – Klauzula RODO (ETAP II)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zalacznik-5-do-wniosku-Klauzula-RODO-ETAP-II.doc
+- Typ pliku: application/msword
+- Ostatnia modyfikacja: 2026-10-30T16:51:56
+- Podpis: Załacznik 5 do wniosku – Klauzula RODO (ETAP II)
 
 ### Ogloszenie naboru wsparcie niefinansowe_wydłużenie
 
