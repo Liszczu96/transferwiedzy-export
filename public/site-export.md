@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-11-04T12:08:31.164181+00:00
+Data eksportu: 2026-11-05T12:21:36.007617+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -9,7 +9,7 @@ Data eksportu: 2026-11-04T12:08:31.164181+00:00
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/bony-na-innowacje-w-ramach-inicjatywy-step/
-- Ostatnia modyfikacja: 2026-10-30T17:04:59
+- Ostatnia modyfikacja: 2026-11-04T15:42:53
 
 Bony na innowacje w ramach inicjatywy STEP
 Cel główny projektu to zwiększenie skali i jakości projektów B+R realizowanych przez dolnośląskie MŚP w obszarze technologii wspieranych przez STEP. Cele bezpośrednie obejmują: wzrost liczby firm realizujących prace B+R, poprawę jakości współpracy biznes–nauka, zwiększenie potencjału komercjalizacji wyników badań  oraz wzmocnienie odporności i transformacji technologicznej gospodarki regionu.
@@ -833,6 +833,13 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 
 ## Media i dokumenty
 
+### Zał. nr 2 Formularz informacji de minimis
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/11/Zal.-nr-2-Formularz-informacji-de-minimis.xlsx
+- Typ pliku: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+- Ostatnia modyfikacja: 2026-11-04T15:36:10
+- Podpis: Zał. nr 2 Formularz informacji de minimis
+
 ### Ogloszenie naboru wsparcie finansowe
 
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Ogloszenie-naboru-wsparcie-finansowe.pdf
@@ -901,13 +908,6 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 - Ostatnia modyfikacja: 2026-10-14T17:10:32
 - Podpis: Załacznik 5 do wniosku – Klauzula RODO
-
-### Zał. nr 2 do wniosku. Formularz informacji de minimis
-
-- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-nr-2-do-wniosku.-Formularz-informacji-de-minimis.xlsx
-- Typ pliku: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-- Ostatnia modyfikacja: 2026-10-14T16:56:45
-- Podpis: Zał. nr 2 do wniosku. Formularz informacji de minimis
 
 ### Zał. 3 do wniosku – Oswiadczenie o otrzymanej_nieotrzymanej pomocy de minimis
 
