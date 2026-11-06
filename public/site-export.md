@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-11-05T12:21:36.007617+00:00
+Data eksportu: 2026-11-06T12:06:49.425973+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -852,7 +852,7 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-II-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-II.doc
 - Typ pliku: application/msword
 - Ostatnia modyfikacja: 2026-10-30T16:52:27
-- Podpis: Zal. II do Regulaminu – Wniosek o przyznanie grantu (ETAP […]
+- Podpis: Zal. II do Regulaminu – Wniosek o przyznanie grantu (ETAP II)
 
 ### Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
 
@@ -914,7 +914,7 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-3-do-wniosku-Oswiadczenie-o-otrzymanej_nieotrzymanej-pomocy-de-minimis.docx
 - Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 - Ostatnia modyfikacja: 2026-10-14T16:56:41
-- Podpis: Zał. 3 do wniosku – Oswiadczenie o otrzymanej_nieotrzymanej pomocy de […]
+- Podpis: Zał. 3 do wniosku – Oswiadczenie o otrzymanej_nieotrzymanej pomocy de minimis
 
 ### Zał nr 1 do wniosku. Oświadczenie o spełnianiu kryteriow MŚP
 
@@ -947,7 +947,7 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-I.-do-Regulaminu-Wniosek-o-przyznanie-grantu-ETAP-I-1.docx
 - Typ pliku: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 - Ostatnia modyfikacja: 2026-09-25T09:09:54
-- Podpis: Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP […]
+- Podpis: Zal. I. do Regulaminu – Wniosek o przyznanie grantu ETAP I
 
 ### STEP – proces
 
@@ -966,7 +966,7 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/09/Zal.-V-do-Regulaminu-Kryteria-oceny-formalnej-i-merytorycznej-ETAP-I_11.08.pdf
 - Typ pliku: application/pdf
 - Ostatnia modyfikacja: 2026-09-15T09:56:26
-- Podpis: Zal. V do Regulaminu – Kryteria oceny formalnej i merytorycznej […]
+- Podpis: Zal. V do Regulaminu – Kryteria oceny formalnej i merytorycznej (ETAP I)_11.08
 
 ### Zal. III do Regulaminu – Umowa wsparcia niefinansowego
 
