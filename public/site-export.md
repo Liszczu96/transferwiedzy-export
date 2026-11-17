@@ -1,6 +1,6 @@
 # Eksport treści Transfer Wiedzy UEW
 
-Data eksportu: 2026-11-16T12:45:59.517103+00:00
+Data eksportu: 2026-11-17T13:27:26.454538+00:00
 Źródło: https://transferwiedzy.uew.pl
 
 ## Strony i wpisy
@@ -531,7 +531,7 @@ ul. Komandorska 118/120, bud. H, pok. 411 53-345 Wrocław
 
 - Typ: page
 - URL: https://transferwiedzy.uew.pl/centra-kompetencyjne/centrum-badawczo-rozwojowe-samorzadu-terytorialnego/
-- Ostatnia modyfikacja: 2024-01-02T18:42:49
+- Ostatnia modyfikacja: 2026-11-17T07:44:12
 
 Misją naszego Zespołu jest zbudowanie platformy  transferu  wiedzy  i  wymiany  doświadczeń  pomiędzy władzami  samorządowymi,  lokalnymi  przedsiębiorcami  oraz przedstawicielami  organizacji  pozarządowych  a  Uniwersytetem  Ekonomicznym  we Wrocławiu.  Pragniemy stworzyć taką formułę wzajemnych kontaktów i inicjowania pomysłów, które w dłuższej perspektywie pozwolą na kreowanie czynników rozwoju z naszej Uczelni i z Wrocławia na rzecz innych jednostek samorządowych. Jednym z naszych celów jest oddziaływanie na spójność Dolnego Śląska poprzez pobudzanie  inicjatyw  oddolnych, rozwój przedsiębiorczości i sieci współpracy w regionie.
 Oferta dla firm, jednostek samorządowych oraz organizacji trzeciego sektora
@@ -543,7 +543,6 @@ Inicjatywy networkingowe służące skutecznej budowie sieci współpracy eksper
 Tworzenie sieci instytucji oraz bazy ekspertów zajmujących się problematyką samorządu terytorialnego.
 Oferta dla mediów
 W prosty sposób wyjaśnimy wszelkie kwestie dotyczące funkcjonowania jednostek samorządowych, opowiemy o możliwościach, jakie tkwią w samorządach lokalnych i o tym, jaki wpływ na komfort życia każdego z nas ‒ mieszkańców mogą mieć decyzje władz samorządowych.
-Więcej informacji o zrealizowanych projektach:  http://www.ue.wroc.pl/nauka/9531/cbrst.html
 Zapraszamy do współpracy!
 Kontakt
 Dyrektor Centrum
@@ -853,6 +852,13 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - Typ pliku: application/msword
 - Ostatnia modyfikacja: 2026-10-30T16:52:27
 - Podpis: Zal. II do Regulaminu – Wniosek o przyznanie grantu (ETAP […]
+
+### Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2026/10/Zal.-IV-do-Regulaminu-Umowa-wsparcie-finansowe-powierzenie-Grantu.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2026-10-30T16:52:22
+- Podpis: Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
 
 ### Zal. IV do Regulaminu – Umowa wsparcie finansowe (powierzenie Grantu)
 
@@ -1248,6 +1254,13 @@ Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lor
 - Typ pliku: application/pdf
 - Ostatnia modyfikacja: 2025-12-09T14:57:16
 - Podpis: Regulamin zarządzania prawami autorskimi, prawami pokrewnymi
+
+### Oferta usług akredytowanych
+
+- URL: https://transferwiedzy.uew.pl/wp-content/uploads/sites/50/2025/10/Oferta-uslug-akredytowanych.pdf
+- Typ pliku: application/pdf
+- Ostatnia modyfikacja: 2025-10-22T14:42:36
+- Podpis: Oferta usług akredytowanych
 
 ### Oferta usług akredytowanych
 
